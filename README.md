@@ -63,6 +63,3 @@ Jika ingin berkontribusi, silakan buat **Pull Request (PR)** atau diskusi di **I
 
 📝 **Dibuat oleh:** [Muhammad Zahran](https://github.com/NirxTech)  
 📅 **Tahun:** 2025  
-```
-
----
