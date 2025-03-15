@@ -39,7 +39,8 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript**, tanpa backend atau database.
 
 ## 🚀 Cara Menjalankan
 1. **Clone repositori ini** ke komputer kamu:  
-   ```bash
+
+  ```
    git clone https://github.com/username/tabel-pmb-unp.git
    ```
 2. **Buka file `index.html` di browser** untuk melihat halaman utama.  
