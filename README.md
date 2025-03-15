@@ -1,6 +1,4 @@
 
----
-
 ```markdown
 # 📊 Tabel Penerimaan Mahasiswa Baru UNP 2025
 
@@ -60,9 +58,6 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript**, tanpa backend atau database.
 
 ## 🤝 Kontribusi
 Jika ingin berkontribusi, silakan buat **Pull Request (PR)** atau diskusi di **Issues**.  
-
----
-
 📝 **Dibuat oleh:** [Muhammad Zahran](https://github.com/NirxTech)  
 📅 **Tahun:** 2025  
 ```
